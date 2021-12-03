@@ -25,8 +25,7 @@ print(val)
 ```
 ## Output:
 
-![OUTPUT](./rankoutput.png![rankoutput](https://user-images.githubusercontent.com/94184990/144448935-2ae8f4fd-4f7c-4f36-a6ec-a5115c549215.PNG)
-)
+![OUTPUT](./rankoutput.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
